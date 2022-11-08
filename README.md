@@ -30,8 +30,14 @@ First of all:
 
 I know that I'm not a good "unit test developer" but I have a great desire to get on, learn, achieve and get things done.
 
-####Before to say you goodbye
+---
+
+#####Before to say you goodbye
 I hope you will enjoy your permanence on MK-Searchbox ;)
 Please feel free to test I and break it.. and after please let me know how can I emprove it <3
 
-#Ciao! :love_you_gesture:
+---
+
+#Ciao!
+
+######Mk
