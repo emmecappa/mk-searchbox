@@ -6,7 +6,7 @@ I know..I know.. nothing special..it's just a searchbox ;)
 
 ---
 
-##How to run this project?
+#How to run this project?
 
 - nvm use
 - npm i
@@ -20,7 +20,7 @@ or you can semply run:
 
 ---
 
-##What can I emprove in this project?
+#What can I emprove in this project?
 ..a lot :)
 First of all:
 
