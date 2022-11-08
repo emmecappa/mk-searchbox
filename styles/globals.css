@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1 {
+  @apply text-6xl font-bold;
+}
+
+* {
+  @apply text-slate-700;
+  cursor: url("../public/pointer2.png"), auto;
+}
+*:focus {
+  outline: none;
+}
+
+input {
+  @apply bg-red-400 placeholder-gray-700 hover:bg-slate-700 hover:placeholder-red-400 hover:text-red-400 rounded-full hover:shadow-red-500 shadow-2xl;
+  cursor: url("../public/pointer2filled.png"), auto;
+}
+
+::selection {
+  @apply bg-red-400;
+}
