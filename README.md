@@ -6,7 +6,7 @@ I know..I know.. nothing special..it's just a searchbox ;)
 
 ---
 
-##How to run this project?
+#How to run this project?
 
 - nvm use
 - npm i
@@ -20,7 +20,7 @@ or you can semply run:
 
 ---
 
-##What can I emprove in this project?
+#What can I emprove in this project?
 ..a lot :)
 First of all:
 
@@ -30,7 +30,7 @@ First of all:
 
 I know that I'm not a good "unit test developer" but I have a great desire to get on, learn, achieve and get things done.
 
-####Before to say you goodbye
+#Before to say you goodbye
 I hope you will enjoy your permanence on MK-Searchbox ;)
 Please feel free to test I and break it.. and after please let me know how can I emprove it <3
 
