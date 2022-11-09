@@ -20,7 +20,7 @@ or you can semply run:
 
 ---
 
-#What can I emprove in this project?
+#What can I improve in this project?
 ..a lot :)
 First of all:
 
