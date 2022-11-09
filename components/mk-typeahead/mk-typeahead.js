@@ -50,7 +50,7 @@ const MkTypeahead = ({ query, setQuery }) => {
               <div
                 data-testid="mk-searchbox-typeahead-element"
                 key={id}
-                className="text-base p-4  text-gray-400 hover:text-gray-700  "
+                className="text-base p-4  text-gray-400 hover:text-gray-700"
                 onClick={() => {
                   setQuery(comment.email);
                   setTypeaHead([]);

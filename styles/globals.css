@@ -7,7 +7,7 @@ h1 {
 }
 
 * {
-  @apply text-slate-700;
+  @apply text-slate-700 break-words;
   cursor: url("../public/pointer2.png"), auto;
 }
 *:focus {

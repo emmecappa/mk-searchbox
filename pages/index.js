@@ -6,7 +6,7 @@ import MkComment from "../components/mk-comment/mk-comment";
 export default function Home() {
   const [comments, setComments] = useState([]);
   return (
-    <div className="ml-5 mr-5 mx-auto flex flex-col h-screen justify-between align-center">
+    <div className="flex flex-col h-screen justify-between align-center ml-5 mr-5 mx-auto ">
       <Head>
         <title>Mk searchbox App</title>
         <meta
