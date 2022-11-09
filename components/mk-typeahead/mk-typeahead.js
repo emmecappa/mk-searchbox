@@ -53,7 +53,7 @@ const MkTypeahead = ({ query, setQuery }) => {
                 className="text-base p-4  text-gray-400 hover:text-gray-700  "
                 onClick={() => {
                   setQuery(comment.email);
-                  setTypeaHead("");
+                  setTypeaHead([]);
                 }}
               >
                 {findQueryInComment(email, name, body, query)}
