@@ -6,7 +6,7 @@ I know..I know.. nothing special..it's just a searchbox ;)
 
 ---
 
-#How to run this project?
+# How to run this project?
 
 - nvm use
 - npm i
@@ -32,12 +32,13 @@ I know that I'm not a good "unit test developer" but I have a great desire to ge
 
 ---
 
-#####Before to say you goodbye
+##### Before to say you goodbye
+
 I hope you will enjoy your permanence on MK-Searchbox ;)
 Please feel free to test I and break it.. and after please let me know how can I emprove it <3
 
 ---
 
-#Ciao!
+# Ciao!
 
-######Mk
+###### Mk
